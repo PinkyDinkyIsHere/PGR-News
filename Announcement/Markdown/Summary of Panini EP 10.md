@@ -1,0 +1,10 @@
+**Summary of Panini EP 10**
+One day, Nanami and Kamui walked into Watanabe's house and found him dead on the floor. Liv, Lee and Karenina eventually came as well and Nanami decided to do an investigation on this case.
+
+Kamui suggested that this might be a "Locked room murder". Before they even proceed, Roland suddenly came out and immediately admits that he killed Watanabe. However, nobody believed him (because he sucks). Roland is apparently on the run from Vera and immediately ran when Vera showed up to capture him.
+
+Nanami proceeded to suspect Karenina, but she denied saying that she was cooking the entire last night. However, Karenina was still arrested due to trying to posion commander with her cooking, despite her saying that her cooking is nowhere near as toxic as Lucia. 
+
+Lee tried to leave when this was going on, which caused Nanami to suspect him. However, Lee suggested that they just check on the CCTV record, but Nanami refused and said he was trying to escape. Lee said that he was sleeping and trained the entire day the moment he woke up. Nanami didn't believe it because Lee has no proof. She proceeded to show a dorm coin that she found, which made everyone question Lee. Lee said he just happeend to pick one up, but everyone still questioned him. Sensing the danger, he immediately ran away and said that he will capture Roland.
+
+Liv was suspected afterwards, but Liv immediately denied and said she was discussing with Bianca the entire day on how to make Lucia quit cooking, proving she wasn't the one who did it. Kamui on the other hand, started to question Nanami. Nanami said she was playing with her friends, but Kamui stated that Nanami has a lot of friends....then they both started laughing. In the end, Watanabe came back and everyone thought he was a ghost. The body they saw was actually just a new body that he ordered but decided to left it on the floor.

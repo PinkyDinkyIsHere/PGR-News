@@ -20,7 +20,7 @@ Follow Pinky's twitter if you want to get push notification about any of the abo
 
 
 
-If you wanna support me and people who helps me with these stuff:
+If you wanna support us:
 
 Pinky = https://ko-fi.com/pinkyishere
 

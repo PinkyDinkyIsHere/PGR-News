@@ -33,7 +33,7 @@ Slash forward using both your light and heavy sword, dealing **220%/440%/660%** 
 
 ![](https://cdn.discordapp.com/attachments/781334106830536715/807885490958368808/-.gif)
 
-Propel yourself forward while spinning your katana around, dealing **200%/400%/600%** physical damage and attracting nearby enemies. Enemies hit by yellow orb will be inflicted with **Withdraw**. **Withdraw** reduces target's attack by **31.76%** for **12** seconds. Anti-CC when casting and direction can be controlled with joystick.
+Propel yourself forward while spinning your katana around, dealing **200%/400%/600%** physical damage and attracting nearby enemies. Enemies hit by yellow orb will be inflicted with **Withdraw**. **Withdraw** reduces target's attack by **60%** for **12** seconds. Anti-CC when casting and direction can be controlled with joystick.
 
 ### Blue Orb
 

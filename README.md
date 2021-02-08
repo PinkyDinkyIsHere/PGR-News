@@ -21,13 +21,8 @@ Follow Pinky's twitter if you want to get push notification about any of the abo
 
 
 If you wanna support me and people who helps me with these stuff:
-
 Pinky = https://ko-fi.com/pinkyishere
-
 Novae = https://ko-fi.com/novaeouo / https://twitter.com/Novae65068265
-
 Olivia = https://ko-fi.com/olivia0639 / https://twitter.com/OliviaGrayRaven
-
 Kuu = https://twitter.com/YureinM 
-
 晨雨 = https://twitter.com/jiuyechuan

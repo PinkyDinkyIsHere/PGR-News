@@ -16,7 +16,7 @@ Every file here is in both, HTML and Markdown format
 
 
 
-Follow Pinky's twitter if you want to get push notification about any of the above, I post about them as soon as I finish translating them, https://twitter.com/PinkyDinkyHere
+Follow Pinky's twitter if you want to get push notification about any of the above, he post about them as soon as we finish translating them, https://twitter.com/PinkyDinkyHere
 
 
 

@@ -12,9 +12,6 @@ Every file here is in both, HTML and Markdown format
 
 **Equipment Translation** = Includes translations of weapons and memory within game
 
-**Legacy** = Past projects by Kuro or us
-
-
 
 Follow Pinky's twitter if you want to get push notification about any of the above, he post about them as soon as we finish translating them, https://twitter.com/PinkyDinkyHere
 

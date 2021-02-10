@@ -8,7 +8,7 @@ Every file here is in both, HTML and Markdown format
 
 **Announcement** = Important news, changelog, updates regarding the game
 
-**Character Translation** = Includes translations of characters within game **(After 2B)**
+**Character Translation** = Includes translations of characters within game 
 
 **Equipment Translation** = Includes translations of weapons and memory within game
 

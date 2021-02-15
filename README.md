@@ -12,6 +12,8 @@ Every file here is in both, HTML and Markdown format
 
 **Equipment Translation** = Includes translations of weapons and memory within game
 
+**Infographic** = Includes translation of infographics
+
 
 Follow Pinky's twitter if you want to get push notification about any of the above, he post about them as soon as we finish translating them, https://twitter.com/PinkyDinkyHere
 

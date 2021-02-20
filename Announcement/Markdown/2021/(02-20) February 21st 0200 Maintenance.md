@@ -9,3 +9,4 @@ Today, we have received a lot of feedback from commanders regarding【Signal Boo
 
 After the event has closed, we will send out **BC x100** and **Support Architecture Components - Yuan Ye x5** as compensation. Additionally, commanders who have participated in this season, their rewards will be sent out based on their **best performance in these past 3 seasons (January 25th 0500 - February 15th 0459)**. For commanders who participated in this event before or currently, but have never tiered into the reward zone, will be rewarded based on **【51-100】times tier**. We apology to all commanders for the inconvience.
 
+* The calculation rule above only calculates **actual combat period's** data and participation

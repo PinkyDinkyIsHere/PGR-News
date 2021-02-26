@@ -62,7 +62,7 @@ She walked slowly back and found the captain still alive. He asked why Selena di
 
 Selena raised her weapon again, and moved forward. She was trying to find the communication center of the station. However, while she was searching, she was found by the infected that use to guide people on this station. She knows she can't defeat him and so she ran...she ran...but when she thought she outran him, he appeared infront of her. Selena was left with no choice but to fight...but she was no match for him. Her weapon broke while fighthing her, she has nothing left against him. The infected jumped on her and pressed her down, Selena screamed in pain. The infected told Selena to give back the piece that the team got from the core or she will be punished. Selena refused and the infected got mad. Since Selena wasn't willing to give it back, the infected decided to search for it himself. He tore Selena's left arm down which made Selena scream. "Looks like its no in the thief's left hand" the infected said....proceeding to tore down her right arm, immense pain was filling Selena's concious.
 
-"WHERE IS IT! WHERE IS IT! WHERE DID THE THIEF WENT!" the infected said...Selena's infection level was so high now that the infected couldn't see her at all. She was torn apart, with barely any strength left and all her computing power was focused on maintaining her inverse core. She realize that she is now at the communication center of the station, so she started to crawl with the skeleton of her arm....it broke. She started using her teeth, and pulled herself towards the terminal...she finally arrived at the place. She connected the terminal to herself and awaited quietly for the day, that Eden returns...
+"WHERE IS IT! WHERE IS IT! WHERE DID THE THIEF WENT!" the infected said...Selena's infection level was so high now that the infected couldn't see her at all. She was torn apart, with barely any strength left and all her computing power was focused on maintaining her inversion core. She realize that she is now at the communication center of the station, so she started to crawl with the skeleton of her arm....it broke. She started using her teeth, and pulled herself towards the terminal...she finally arrived at the place. She connected the terminal to herself and awaited quietly for the day, that Eden returns...
 
 How long has it been? Since Selena boarded the ship, Selena doesn't know. She was taken by Gabriel. She was brought back to the Ascendant base and toyed by Gabriel and Roland. The next thing we know, she was tossed into the red tide as a vessel to become a new heterogeneous infected....It was painful.
 
@@ -74,7 +74,19 @@ The starry nighy entered her eyes. At that moment, the stormy and chaotic concio
 
 "Eh....who is Ayla?"
 
+# Glossary
 
+| Names          | Meaaning                                                     |
+| -------------- | ------------------------------------------------------------ |
+| Structure      | Humanoid soldiers with the mind of a human. (Most playable characters are structures) |
+| Ascendant      | Structures or machine that has the ability to control and use the Punishing virus |
+| Agent          | An entity that has the ability to grant others the chance to be an Ascendant |
+| Inversion Core | A trademark device that every Eden structure has. A type of core that helps structures survive the virus |
+| Red Tide       | An organic Punishing virus tide that devours anything that it comes in contact wit |
+| Sage           | Usually refer to machine sage, an entity mentioned number of times in story but what it means, is unknown |
+| Compositor     | Ascendants that chose not to receive the power of Punishing. They are immune to the virus but cannot control or use it. |
+|                |                                                              |
+|                |                                                              |
 
 
 

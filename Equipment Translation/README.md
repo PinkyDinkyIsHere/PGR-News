@@ -4,8 +4,8 @@ These are purely done in an image format, for I couldn't get them to scale the w
 
 **5★ Memory translation (27/11/2020)** = https://imgur.com/a/1kITN2E
 
-**6★ Memory Translation (27/11/2020)** = https://imgur.com/a/4kjA1Fu
+**6★ Memory Translation (Echo Aria 26/02/21)** = https://imgur.com/a/4kjA1Fu
 
-**5★ Weapon translation (09/01/2021)** = https://imgur.com/a/GmDzVo5
+**5★ Weapon translation (Echo Aria 26/02/26)** = https://imgur.com/a/GmDzVo5
 
-**6★ Weapon translation (13/01/2021)** = https://imgur.com/a/8Nfvcuy
+**6★ Weapon translation (Echo Aria 26/02/21)** = https://imgur.com/a/8Nfvcuy

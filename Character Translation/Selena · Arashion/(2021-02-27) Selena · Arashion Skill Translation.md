@@ -116,5 +116,8 @@ Whenever you enter the stage, gain **20%** additional damage increase and a shie
 ![](https://cdn.discordapp.com/attachments/781334106830536715/814844547417899018/-.gif)
 ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎*This requiem is for all those who sacrificied on the battlefield*
 
+## Special Thanks
 
+Shichiro (@SheMadMayBe) on Twitter for the Selena edit in introduction
+諫山黃泉 ✣ 紅粉佳人❉綃織迷魅❉春迎逢喜❉榭花盤簇 on Discord for the GIFs
 

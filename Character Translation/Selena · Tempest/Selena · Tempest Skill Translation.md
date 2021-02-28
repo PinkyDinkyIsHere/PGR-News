@@ -77,7 +77,7 @@ When you have **Temperament meter**, consume 60 ultimate energy and switch your 
 
 ![](https://cdn.discordapp.com/attachments/781334106830536715/814842618441498674/QTE.gif)
 
-Swiftly slashes your target with your blade, dealing a total of **640%** lightning damage
+Swiftly slashes your target with your blade, dealing a total of **640%** lightning damage (Selena is on field for 1 second, dealing 1 hit)
 
 
 
